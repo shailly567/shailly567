@@ -57,7 +57,7 @@ An AI-powered grammar correction application built using Python, Flask and Gemin
 
 **Tech:** Python | Flask | Gemini API | JavaScript
 
-[View Project]([https://github.com/shailly567](https://github.com/shailly567/ai-grammar-correction-tool))
+[View Project](https://github.com/shailly567/ai-grammar-correction-tool)
 
 ### 🐍 Python Programming & Mini Projects
 A collection of Python programs covering programming fundamentals, problem-solving, string manipulation, conditional logic and mini-projects.
