@@ -49,13 +49,23 @@
 
 ---
 
-## 🚀 Projects & Work
 
-| Project | Description |
-|---|---|
-| 🤖 AI Grammar Correction Tool | Python-based application exploring AI-powered grammar correction using Gemini API and Flask. |
-| 💬 AI Chatbot | Conversational AI project with integrated features and user interaction. |
-| 🗺️ AI-Based Land Record Digitization | Smart India Hackathon project exploring automated cadastral mapping and feature extraction. |
+## 🚀 Featured Projects
+
+### 🤖 AI Grammar Correction Tool
+An AI-powered grammar correction application built using Python, Flask and Gemini API.
+
+**Tech:** Python | Flask | Gemini API | JavaScript
+
+[View Project](https://github.com/shailly567)
+
+### 🐍 Python Programming & Mini Projects
+A collection of Python programs covering programming fundamentals, problem-solving, string manipulation, conditional logic and mini-projects.
+
+**Tech:** Python
+
+[Explore Repository](https://github.com/shailly567/pro)
+
 
 *Explore my repositories for more projects and experiments.*
 
